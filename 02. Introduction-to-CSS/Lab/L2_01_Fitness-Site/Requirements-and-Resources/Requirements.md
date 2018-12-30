@@ -1,16 +1,23 @@
 # 01 - Fitness Site
 ------
-Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
+Problems for homework for the [“HTML and CSS Basics”](#) course @ **SoftUni**.
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS)
 
+
 ## Constraints
-* Change the title
+* Change the document **title** to *Fitness Site*
 * Divide your content into **header**, **main** and **footer** tags
-* Use **nav**, **ul**, **li** and **a** tags to create the navigation
-* Use **article** tag to create three **articles** in the main
+* Use **nav**, **ul**, **li** and **a** tags to create the navigations
+	* Set the list items **display** property to **inline-block**
+	* Center the hyperlinks and remove the **text decoration**
+* Create three **articles** inside the main
+	* Set the **display** property to **inline-block** for each article
 * Use **h3** tag for headings
-* Use **Font Awesome** for the icons
+	* Center the headings
+	* Set the **text color** to white
+	* Set the **font weight** to bold
+* Use **"Helvetica", sans-serif** font family
 
-
-
+## Hints
+* Use [Font Awesome](https://fontawesome.com/) for icons

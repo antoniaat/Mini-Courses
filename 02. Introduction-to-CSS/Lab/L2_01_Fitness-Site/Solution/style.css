@@ -32,7 +32,6 @@ nav ul {
 
 nav ul li {
   display: inline-block; 
-  
 }
 
 nav ul li:not(:last-child){
@@ -103,7 +102,7 @@ main article {
   color: white;
 }
 
-main article h3{
+main article h3 {
   text-align: center;
   color: white;
   font-weight: bold;
@@ -113,9 +112,9 @@ main article h3{
 footer {
   margin: 0;
   padding: 30px 0 10px 0;    
-  
 }
-footer p{
+
+footer p {
   width:730px;
   display: inline-block;
 }
