@@ -1,11 +1,14 @@
 # 05 - Table
 ------
-Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
+Problems for homework for the [“HTML and CSS Basics”](#) course @ **SoftUni**.
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS)
 
 ## Constraints
-* Change the title
+* Change the document **title**
 * Use **nav** tag to create a navigation
     * Use **ul** tag to create an unordered list
-    * Use **li** and **a** tags for list items
+    * Create **list items** with **hyperlinks** inside them for each menu item
+	
+## Hints
+* You can try to write some **CSS** for better looking navigation bar *(see the provided screenshots)*

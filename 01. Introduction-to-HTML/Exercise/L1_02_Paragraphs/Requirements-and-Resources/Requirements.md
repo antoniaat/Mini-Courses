@@ -1,14 +1,14 @@
 # 02 - Paragraphs
 ------
-Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
+Problems for homework for the [“HTML and CSS Basics”](#) course @ **SoftUni**.
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS)
 
 ## Constraints
-* Change the **title**
+* Change the document **title**
 * Use **h1** tag for the title
-* Use **p** tag to creade the paragraphs
-* See the screenshot and use **strong** and em **tags** where needed
+* Use **p** tag to create the paragraphs
+* See the provided screenshot and use **strong** and em **tags** where needed
 
 
 

@@ -1,10 +1,13 @@
 # 05 - Table
 ------
-Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
+Problems for homework for the [“HTML and CSS Basics”](#) course @ **SoftUni**.
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS)
 
 ## Constraints
-* Change the title
+* Change the document **title**
 * Use **h2** tag for the title
-* Use **table**, **thead**, **tbody** and **tfoot** tags
+* Use **table**, **thead**, **tbody** and **tfoot** tags to create the **table**
+
+## Hints
+* You can add the **style.css** file from resources for better looking table
