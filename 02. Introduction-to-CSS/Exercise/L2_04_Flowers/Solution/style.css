@@ -1,86 +1,94 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-*{
+
+* {
     margin: 0;
     padding: 0;
 }
-body{
-    font-family: 'Open Sans', sans-serif;
+
+body {
+    font-family: Open Sans, sans-serif;
     width: 90%;
     margin: 0 auto;
 }
 
-header nav{
+header nav {
     text-align: center;
     margin: 0.7rem;
 }
 
-header nav li{
+header nav li {
     display: inline-block;
     list-style-type: none;
 }
 
-header nav li a{
-    color: #D67472;
+header nav li a {
+    color: rgb(214, 116, 114);
     text-decoration: none;
     font-weight: bold;
 }
 
-header nav li:not(:last-child){
+header nav li:not(:last-child) {
     margin-right: 2rem;
 }
 
-.first{
+.first {
     text-align: center;
     color: #F7FAFA;
 }
-.first > article:first-child{
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url(./img/header-flower.png) no-repeat center center;
+
+.first>article:first-child {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(./img/header-flower.png) no-repeat center center;
     background-size: cover;
 }
-.first > article:first-child h1{
+
+.first>article:first-child h1 {
     letter-spacing: 0.1rem;
-    padding: 13rem 0.5rem 1rem 0;   
+    padding: 13rem 0.5rem 1rem 0;
     font-size: 36px;
 }
-.first > article:first-child p{
+
+.first>article:first-child p {
     width: 45%;
     margin: 0 auto;
     padding: 1rem 0 13rem 0;
-    font-size: 16px;  
+    font-size: 16px;
 }
-.first hr, .second hr{
-    background: #D67472;
-    width: 4rem;      
+
+.first hr, .second hr {
+    background: rgb(214, 116, 114);
+    width: 4rem;
     height: 2px;
-    border: none;   
+    border: none;
     margin: 0 auto;
 }
-.first > article:last-child{
-    background: #D67472;
+
+.first>article:last-child {
+    background: rgb(214, 116, 114);
 }
-.first > article:last-child h3{
+
+.first>article:last-child h3 {
     padding: 2rem 0 1rem 0;
-    font-size: 20px;      
+    font-size: 20px;
 }
 
-.first > article:last-child hr{
+.first>article:last-child hr {
     background: #F7FAFA;
-    width: 4rem;      
+    width: 4rem;
     height: 2px;
-    border: none;   
+    border: none;
     margin: 0 auto;
 }
 
-.first > article:last-child p{
+.first>article:last-child p {
     width: 45%;
     margin: 0 auto;
     padding: 1rem 0 2rem 0;
-    font-size: 16px;   
+    font-size: 16px;
 }
 
-.first button{
-    margin-bottom: 2rem;    
-    color: #D67472;
+.first button {
+    margin-bottom: 2rem;
+    color: rgb(214, 116, 114);
     background: #F7FAFA;
     border: none;
     border-radius: 5px;
@@ -88,48 +96,51 @@ header nav li:not(:last-child){
     font-weight: bold;
     font-size: 14px;
 }
-.second > h5{
+
+.second>h5 {
     padding: 2rem 0 1rem 0;
-    font-size: 20px;    
+    font-size: 20px;
     text-align: center;
 }
-.second div{
+
+.second div {
     width: 60%;
     margin: 0 auto;
     padding: 2rem 0 1rem 0;
     display: flex;
     justify-content: space-between;
 }
-.second div article{
+
+.second div article {
     width: 25%;
-    text-align: center;    
+    text-align: center;
 }
 
-.second div article:not(:last-child){
+.second div article:not(:last-child) {
     margin-right: 1rem;
 }
 
-.second div article i{
+.second div article i {
     font-size: 40px;
-    color: #D67472;
+    color: rgb(214, 116, 114);
     padding-bottom: 1rem;
 }
 
-.second div article p:last-child{
+.second div article p:last-child {
     color: #868F8C;
     font-size: 12px;
     padding: 1rem 0 2rem 0;
 }
 
-.second img{
+.second img {
     width: 6rem;
     height: 6rem;
 }
 
-footer{
-    background:#D67472;
+footer {
+    background: rgb(214, 116, 114);
     padding: 1rem 0;
     text-align: center;
     font-size: 14px;
-    color: white;    
+    color: white;
 }
