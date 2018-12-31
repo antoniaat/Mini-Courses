@@ -1,6 +1,6 @@
 # 02 - Page Content
 ------
-Problems for the [“HTML and CSS”](#) course @ **SoftUni**
+Problems for the [“HTML and CSS Basics”](#) course @ **SoftUni**
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS)
 
